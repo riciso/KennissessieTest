@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="ReportServer">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=tap430.testapp.local\dm;Initial Catalog=ReportServer$DM</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>4df64c78-d0d5-451f-91b4-5f022a027467</DataSourceID>
+</RptDataSource>
